@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/algorithms/algorithms.iml" filepath="$PROJECT_DIR$/algorithms/algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javacore/javacore.iml" filepath="$PROJECT_DIR$/javacore/javacore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.algorithms/01.algorithms.iml" filepath="$PROJECT_DIR$/01.algorithms/01.algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.javacore/02.javacore.iml" filepath="$PROJECT_DIR$/02.javacore/02.javacore.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/notes.iml" filepath="$PROJECT_DIR$/.idea/notes.iml" />
     </modules>
   </component>
