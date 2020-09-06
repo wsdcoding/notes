@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-leetcode/00-leetcode.iml" filepath="$PROJECT_DIR$/00-leetcode/00-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-数组/01-数组.iml" filepath="$PROJECT_DIR$/01-数组/01-数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014-Trie/014-Trie.iml" filepath="$PROJECT_DIR$/014-Trie/014-Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-链表/02-链表.iml" filepath="$PROJECT_DIR$/02-链表/02-链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-栈/03-栈.iml" filepath="$PROJECT_DIR$/03-栈/03-栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-队列/04-队列.iml" filepath="$PROJECT_DIR$/04-队列/04-队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-二叉搜索树/05-二叉搜索树.iml" filepath="$PROJECT_DIR$/05-二叉搜索树/05-二叉搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-AVL树/06-AVL树.iml" filepath="$PROJECT_DIR$/06-AVL树/06-AVL树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-红黑树/07-红黑树.iml" filepath="$PROJECT_DIR$/07-红黑树/07-红黑树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-集合/08-集合.iml" filepath="$PROJECT_DIR$/08-集合/08-集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-映射 Map/09-映射 Map.iml" filepath="$PROJECT_DIR$/09-映射 Map/09-映射 Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-哈希表/10-哈希表.iml" filepath="$PROJECT_DIR$/10-哈希表/10-哈希表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-堆/11-堆.iml" filepath="$PROJECT_DIR$/11-堆/11-堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-优先级队列/12-优先级队列.iml" filepath="$PROJECT_DIR$/12-优先级队列/12-优先级队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Trie/13-Trie.iml" filepath="$PROJECT_DIR$/13-Trie/13-Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-二叉树的非递归遍历/14-二叉树的非递归遍历.iml" filepath="$PROJECT_DIR$/14-二叉树的非递归遍历/14-二叉树的非递归遍历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-排序/15-排序.iml" filepath="$PROJECT_DIR$/15-排序/15-排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-并查集/16-并查集.iml" filepath="$PROJECT_DIR$/16-并查集/16-并查集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-图/17-图.iml" filepath="$PROJECT_DIR$/17-图/17-图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/99-test/99-test.iml" filepath="$PROJECT_DIR$/99-test/99-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notes.iml" filepath="$PROJECT_DIR$/notes.iml" />
+    </modules>
+  </component>
+</project>
