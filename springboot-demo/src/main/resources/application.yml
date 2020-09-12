@@ -22,7 +22,14 @@ spring:
 # 开发环境
 spring:
   profiles: dev
-
+  datasource:
+    url: jdbc:mysql://localhost:3306/user_center?nullCatalogMeansCurrent=true&useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    hikari:
+      username: root
+      password: root
+      # >= 6.x: com.mysql.cj.jdbc.Driver
+      # <= 5.x: com.mysql.jdbc.Driver
+      driver-class-name: com.mysql.cj.jdbc.Driver
 ---
 # profile=x的专用属性，也就是某个环境下的专用属性
 # 生产环境
