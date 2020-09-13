@@ -19,6 +19,7 @@ class UserDTO {
 
 @Slf4j
 public class LombokTest {
+
     // private static final Logger logger = getLogger(LombokTestController.class); 有了Slf4j 就不用这种方式了
     public static void main(String[] args) {
         //没用@Builder 注解之前创建实例的做法
